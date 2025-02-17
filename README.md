@@ -9,10 +9,3 @@
 ![](https://raw.githubusercontent.com/Zacetrex/Kits-Robotica/refs/heads/main/Kit%20Carro%20RF.png)
 
 ![](https://raw.githubusercontent.com/Zacetrex/Kits-Robotica/refs/heads/main/Kit%20Carro%20RF%20control.png)
-
-------------
-
-![](https://zacetrex.com/wp-content/uploads/2025/02/Zacetrex-Logo-para-GitHub-anchura-2000-scaled.webp)
-
-
-------------
