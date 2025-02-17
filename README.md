@@ -1,4 +1,4 @@
-![](https://zacetrex.com/wp-content/uploads/2025/02/Zacetrex-Logo-para-GitHub-anchura-2000-scaled.webp)
+![](https://zacetrex.com/wp-content/uploads/2025/02/Zacetrex-Logo-para-GitHub-scaled.webp)
 
 #  Kit de Carro con Control RF
 
