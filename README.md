@@ -1,3 +1,5 @@
+![](https://zacetrex.com/wp-content/uploads/2025/02/Zacetrex-Logo-para-GitHub-anchura-2000-scaled.webp)
+
 #  Kit de Carro con Control RF
 
 #### Carro robotico con Arduino Uno R3 y NRF24L01
@@ -10,7 +12,7 @@
 
 ------------
 
-![](https://zacetrex.com/wp-content/uploads/2025/02/Logo-para-GitHub.png)
+![](https://zacetrex.com/wp-content/uploads/2025/02/Zacetrex-Logo-para-GitHub-anchura-2000-scaled.webp)
 
 
 ------------
