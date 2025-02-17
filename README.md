@@ -10,6 +10,7 @@
 
 ------------
 
-![](https://zacetrex.com/wp-content/uploads/2025/02/Zacetrex-Logo-hecho-horizontal-ajustado.png)
+![](https://zacetrex.com/wp-content/uploads/2025/02/Logo-para-GitHub.png)
+
 
 ------------
